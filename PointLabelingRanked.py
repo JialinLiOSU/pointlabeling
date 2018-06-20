@@ -116,5 +116,5 @@ rect_list=fig.patches
 # ax1.set_aspect(1)
 ax1.margins(0)
 ax1.axis("off")
-# plt.axis('off')
+
 plt.show()
